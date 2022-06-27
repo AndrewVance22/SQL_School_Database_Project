@@ -1,0 +1,124 @@
+CourseCode,CourseTitle,TotalWeeks,TotalHours,FullCourseFee,CourseDescription
+LAT-226,Latin Slang,,,,Fusce in sapien eu purus dapibus commodo.  Curabitur non eros.  Cras faucibus condimentum odio.  am hendrerit bibendum justo.
+LAT-207,Grammar Pills,11,16.5,495,"Ut molestie magna at mi.  Donec metus massa, mollis vel, tempus placerat, vestibulum condimentum, ligula.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+LAT-445,Latin Culture and Conversation,10,15,450,Suspendisse dapibus lorem pellentesque magna.  Vivamus a tellus.
+LAT-444,Latin Through Fashion,10,15,450,Proin pharetra nonummy pede.  Sed cursus quam id felis.  Mauris et orci.  Suspendisse dapibus lorem pellentesque magna.
+LAT-430,Roman History,8,12,360,"Proin pharetra nonummy pede.  Donec laoreet nonummy augue.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi."
+LAT-402,Latin Literature,8,12,360,Nunc ac magna.  Nam vulputate.  Mauris eget neque at sem venenatis eleifend.
+LAT-476,Latin Music,8,12,360,Vivamus a tellus.  Mauris eleifend a eget mauris.
+LAT-431,Roman History II,11,16.5,495,"Ut molestie magna at mi.  Sed velit urna, interdum vel, ultricies vel, faucibus at, quam.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus.  Aliquam erat volutpat."
+LAT-101,Beginner I,11,16.5,495,Quisque aliquam tempor magna.  Maecenas porttitor congue massa.  Proin nec augue.
+LAT-102,Beginner II,11,16.5,495,"Suspendisse potenti.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.  Integer aliquet mauris et nibh."
+LAT-314,Difficult Latin,11,,,"Duis a quam non neque lobortis malesuada.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.  Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis.  Vivamus vitae massa adipiscing est lacinia sodales."
+LAT-405,Roman Theater,10,15,450,"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.  Fusce est.  Donec ullamcorper fringilla eros."
+LAT-225,Passionate Latin,11,16.5,495,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nunc viverra imperdiet enim.  Etiam at ligula et tellus ullamcorper ultrices."
+LAT-201,Intermediate Latin I,11,16.5,495,Mauris et orci.  Nunc viverra imperdiet enim.  Sed aliquam odio vitae tortor.
+LAT-202,Intermediate Latin II,11,16.5,495,Cras faucibus condimentum odio.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+LAT-203,Conversation II,10,12.5,375,Nam vulputate.  Vivamus a tellus.  Suspendisse potenti.  Donec ullamcorper fringilla eros.
+LAT-301,Advanced Latin I,11,16.5,495,"Suspendisse potenti.  Etiam at ligula et tellus ullamcorper ultrices.  Proin nec augue.  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos."
+LAT-302,Advanced Latin II,11,16.5,495,Curabitur posuere quam vel nibh.  Ut tincidunt volutpat urna.  Nunc viverra imperdiet enim.  Aenean nec lorem.
+LAT-303,Advanced Latin III,11,16.5,495,"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+LAT-475,Movies,10,15,450,"Vestibulum quis dolor a felis congue vehicula.  Donec a augue, venenatis scelerisque, dapibus a, consequat at, leo."
+LAT-313,Conversation I,10,15,450,Vestibulum quis dolor a felis congue vehicula.  Mauris eleifend a eget mauris.  Quisque ornare placerat risus.  Fusce est.
+LAT-317,Conversation II - Morning,10,11.5,345,"Fusce in sapien eu purus dapibus commodo.  Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc.  Vestibulum quis dolor a felis congue vehicula.  Sed velit urna, interdum vel, ultricies vel, faucibus at, quam."
+LAT-460,Songs,10,15,450,"Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Sed aliquam odio vitae tortor.  Suspendisse dapibus lorem pellentesque magna."
+LAT-443,Veni Vidi Vici,8,12,360,Curabitur non eros.  In porttitor.  am hendrerit bibendum justo.  Etiam eget dui.
+LAT-435,Roman News,11,16.5,495,"Nunc viverra imperdiet enim.  In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Duis pretium mi euismod erat."
+LAT-433,Roman History IV,11,16.5,495,Quisque ornare placerat risus.  Etiam eget dui.  Mauris eget neque at sem venenatis eleifend.
+LAT-401,Latin for Travelers,8,16,480,"Curabitur non eros.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi."
+LAT-404,Latin Book Club,11,16.5,495,Fusce aliquet pede non pede.  Proin hendrerit tempus arcu.  Ut mattis ligula posuere velit.  Maecenas id augue.
+LAT-459,Latin and the Catholic Church,6,9,270,"In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Fusce aliquet pede non pede.  Donec blandit feugiat ligula."
+LAT-474,Latin Puns,4,6,180,"Donec metus massa, mollis vel, tempus placerat, vestibulum condimentum, ligula.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+LAT-214,Latin Grammar,6,4,120,Maecenas porttitor congue massa.  Cras faucibus condimentum odio.  Integer a.
+LAT-406,Table Topics,,,,Nunc sagittis.  Cras dapibus dapibus nisl.  Etiam at ligula et tellus ullamcorper ultrices.  Donec ullamcorper fringilla eros.
+LAT-439,Book Club,3,4.5,135,Sed ac ligula.  Vivamus a tellus.  Cras non magna vel ante adipiscing rhoncus.
+LAT-423,Fireside Chat,9,13.5,405,Duis a quam non neque lobortis malesuada.  Aliquam at eros.  Maecenas id augue.  Maecenas id augue.
+LAT-440,Book Club,3,4.5,135,"Ut nonummy.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.  Donec laoreet nonummy augue."
+LAT-441,Book Club,3,4.5,135,Quisque ornare placerat risus.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Vestibulum quis dolor a felis congue vehicula.
+LAT-118,Popular Latin Phrases,8,12,360,Fusce in sapien eu purus dapibus commodo.  In porttitor.  Duis a quam non neque lobortis malesuada.
+LAT-452,Latino che Passione I,11,16.5,495,Curabitur varius fringilla nisl.  Aliquam at eros.
+LAT-403,The Beauty of Latin,4,6,180,Vivamus vitae massa adipiscing est lacinia sodales.  Donec ut est in lectus consequat consequat.  Suspendisse potenti.  Ut nonummy.
+LAT-305,Conversation Club I,11,16.5,495,"Donec ut est in lectus consequat consequat.  Duis a quam non neque lobortis malesuada.  Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc."
+LAT-215,Latin Grammar II,5,7.5,225,Sed aliquam odio vitae tortor.  Mauris et orci.  Integer aliquet mauris et nibh.
+LAT-501,$25 Processing fee for change of registration,,,,"Cras dapibus dapibus nisl.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Donec metus massa, mollis vel, tempus placerat, vestibulum condimentum, ligula."
+LAT-306,Conversation Club II,11,16.5,495,Quisque ornare placerat risus.  Suspendisse potenti.  Nunc viverra imperdiet enim.
+LAT-307,Conversation III,11,16.5,495,Donec laoreet nonummy augue.  Vivamus a mi.  In in nunc.
+LAT-223,Grammar Legends,11,16.5,495,"Sed ac ligula.  Fusce in sapien eu purus dapibus commodo.  Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Nunc viverra imperdiet enim."
+LAT-104,Beginner I Morning,11,16.5,495,"Integer a.  Maecenas porttitor congue massa.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Curabitur posuere quam vel nibh."
+LAT-105,Beginner II Morning,11,16.5,495,"Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia a nisl eget sapien.  Donec a augue, venenatis scelerisque, dapibus a, consequat at, leo.  Aliquam erat volutpat.  Sed at lorem in nunc porta tristique."
+LAT-316,Conversation I Morning,11,16.5,495,Aliquam erat volutpat.  Nunc ac magna.  Sed aliquam odio vitae tortor.  Fusce aliquet pede non pede.
+LAT-228,Grammar For You  For Int. I,8,10.5,315,Quisque ornare placerat risus.  Vestibulum quis dolor a felis congue vehicula.  Etiam at ligula et tellus ullamcorper ultrices.
+LAT-477,News of the Roman Empire,4,6,180,"Fusce aliquet pede non pede.  Ut molestie magna at mi.  Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Fusce in sapien eu purus dapibus commodo."
+LAT-315,Conversing wih Fables & Fairy Tales,108,9,270,Fusce est.  In porttitor.  Aliquam erat volutpat.  Donec laoreet nonummy augue.
+LAT-465,Latin Today,5,7.5,225,Ut molestie magna at mi.  Etiam eget dui.  Ut mattis ligula posuere velit.  In porttitor.
+LAT-467,Roman Regional Wines,3,6,180,"Mauris et orci.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Mauris eleifend a eget mauris.  Fusce aliquet pede non pede."
+LAT-468,Paring Roman Wine with Roman Dishes,3,6,180,"Ut tincidunt volutpat urna.  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.  Cras dapibus dapibus nisl.  Duis a quam non neque lobortis malesuada."
+LAT-466,Latin and Hollywood,4,6,180,"Donec laoreet nonummy augue.  Nunc ac magna.  Sed velit urna, interdum vel, ultricies vel, faucibus at, quam.  Cras dapibus dapibus nisl."
+LAT-447,A Day in Ancient Rome,3,4.5,135,Maecenas porttitor congue massa.  Proin hendrerit tempus arcu.
+LAT-310,Advanced I Morning,11,16.5,495,"Etiam eget dui.  Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.  In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Maecenas pede purus, tristique ac, tempus eget, egestas quis, mauris."
+LAT-318,Conversation III Morning,11,16.5,495,"In porttitor.  Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Fusce est.  Nunc viverra imperdiet enim."
+LAT-205,Intermediate Latin I - Morning,11,16.5,495,"Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia a nisl eget sapien.  Cras non magna vel ante adipiscing rhoncus.  Nunc lacus metus, posuere eget, lacinia eu, varius quis, libero."
+LAT-471,Roman Cuisine,11,16.5,495,"Duis a quam non neque lobortis malesuada.  Etiam at ligula et tellus ullamcorper ultrices.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.  Mauris et orci."
+LAT-232,Writing in Latin,11,16.5,495,Integer ultrices lobortis eros.  Quisque aliquam tempor magna.  Aliquam at eros.  Maecenas id augue.
+LAT-206,Intermediate II - Morning,11,16.5,495,Nunc viverra imperdiet enim.  Suspendisse potenti.  In hac habitasse platea dictumst.  Proin hendrerit tempus arcu.
+LAT-319,Conversation Club II - Morning,11,16.5,495,Quisque aliquam tempor magna.  Mauris eleifend a eget mauris.  Cras faucibus condimentum odio.
+LAT-311,Advanced II Morning,11,16.5,495,Vivamus a tellus.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+LAT-312,Advanced III Morning,11,16.5,495,"Integer a.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero.  Donec ullamcorper fringilla eros."
+LAT-481,Roman Emperors Top 10,5,7.5,225,"Curabitur posuere quam vel nibh.  Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis.  Quisque ornare placerat risus."
+LAT-479,Roman Art,11,16.5,495,Aliquam erat volutpat.  Fusce est.  Quisque ornare placerat risus.
+LAT-210,Intensive Grammar,4,6,180,"Donec ut est in lectus consequat consequat.  Duis a quam non neque lobortis malesuada.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero."
+LAT-120,Latin Pronunciation,3,4.5,135,"Fusce aliquet pede non pede.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.  Nunc ac magna."
+LAT-436,Book Club,11,16.5,495,"Cras non magna vel ante adipiscing rhoncus.  Vestibulum quis dolor a felis congue vehicula.  Sed velit urna, interdum vel, ultricies vel, faucibus at, quam."
+LAT-448,Latin Today 1,11,16.5,495,"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Quisque ornare placerat risus.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero.  Proin nec augue."
+LAT-449,Latin Today 2,11,16.5,495,"Duis a quam non neque lobortis malesuada.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero.  Fusce in sapien eu purus dapibus commodo.  Nunc sagittis."
+LAT-462,History,11,16.5,495,Ut nonummy.  Integer a.  Donec laoreet nonummy augue.
+LAT-458,Exploring Ancient Rome Through Wine and Regional Food,11,22,660,Cras dapibus dapibus nisl.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Nunc sagittis.
+LAT-231,Write and Learn,11,16.5,495,"Mauris et orci.  In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+LAT-216,Living Latin Grammar 1,3,4.5,135,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  am hendrerit bibendum justo.  Mauris eget neque at sem venenatis eleifend.  Integer aliquet mauris et nibh."
+LAT-217,Living Latin Grammar 2,4,6,180,Maecenas id augue.  Fusce aliquet pede non pede.  Cras non magna vel ante adipiscing rhoncus.
+LAT-218,Living Latin Grammar 3,4,6,180,Morbi neque.  Fusce est.
+LAT-413,Latin Food Tasting,1,2,60,Integer aliquet mauris et nibh.  Morbi neque.  Donec ut est in lectus consequat consequat.
+LAT-230,Writing Lab,5,7.5,225,Cras dapibus dapibus nisl.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+LAT-473,Roman Culture,11,16.5,495,"Mauris et orci.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+LAT-456,Roman Architecture,11,16.5,495,"Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede."
+LAT-308,Advanced Latin I - FAST TRACK,8,12,360,Donec laoreet nonummy augue.  Vivamus a mi.  Etiam at ligula et tellus ullamcorper ultrices.
+LAT-451,Latin Authors,8,12,360,"Maecenas porttitor congue massa.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Nunc lacus metus, posuere eget, lacinia eu, varius quis, libero."
+LAT-469,Literature and Conversation,11,16.5,495,"Donec ullamcorper fringilla eros.  Integer aliquet mauris et nibh.  Donec ullamcorper fringilla eros.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero."
+LAT-437,Book Club,11,16.5,495,"Vestibulum quis dolor a felis congue vehicula.  Etiam at ligula et tellus ullamcorper ultrices.  Vestibulum quis dolor a felis congue vehicula.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+LAT-224,In Other Words,11,16.5,495,"Etiam eget dui.  Proin nec augue.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna."
+LAT-438,Book Club,6,9,270,"Donec laoreet nonummy augue.  Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Praesent euismod.  Mauris eleifend a eget mauris."
+LAT-470,Magnum opus,11,16.5,495,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Maecenas pede purus, tristique ac, tempus eget, egestas quis, mauris.  Integer aliquet mauris et nibh."
+LAT-428,Learn Latin with music!,11,16.5,495,Sed ac ligula.  am hendrerit bibendum justo.  Curabitur posuere quam vel nibh.  Suspendisse dapibus lorem pellentesque magna.
+LAT-429,How to sound like a Roman,11,16.5,495,"Donec a augue, venenatis scelerisque, dapibus a, consequat at, leo.  Suspendisse dapibus lorem pellentesque magna.  Quisque aliquam tempor magna.  Maecenas porttitor congue massa."
+LAT-113,Book Conversations - Beginner,4,6,180,Fusce aliquet pede non pede.  Cras faucibus condimentum odio.
+LAT-123,"Learning Latin: Hobbies, Music, Food",3,4.5,135,"Donec a augue, venenatis scelerisque, dapibus a, consequat at, leo.  Vivamus vitae massa adipiscing est lacinia sodales."
+LAT-124,"Learning Latin: Latin stories, Latin holidays",2,3,90,Cras faucibus condimentum odio.  Aliquam at eros.  Proin pharetra nonummy pede.  Etiam eget dui.
+LAT-309,Advanced II FAST TRACK,8,12,360,"Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+LAT-450,Non sequitur,5,7.5,225,Pellentesque cursus sagittis felis.  am hendrerit bibendum justo.  In porttitor.
+LAT-219,Book Conversations - Intermediate,4,6,180,"Etiam eget dui.  Ut mattis ligula posuere velit.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+LAT-211,Intensive Grammar 1,3,4.5,135,Sed aliquam odio vitae tortor.  Mauris et orci.  Integer aliquet mauris et nibh.
+LAT-212,Intensive Grammar 2,2,3,90,Proin pharetra nonummy pede.  Sed cursus quam id felis.  Proin pharetra nonummy pede.
+LAT-461,Quid pro quo,11,16.5,495,"In porttitor.  In hac habitasse platea dictumst.  Ut molestie magna at mi.  Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc."
+LAT-425,Book Club,,,,Mauris et orci.  Nunc sagittis.  Ut molestie magna at mi.
+LAT-208,Intermediate Latin II - FAST 1,6,9,270,"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.  Etiam eget dui."
+LAT-209,Intermediate Latin II - FAST 2,4,6,180,"Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+LAT-119,Three steps Latin,11,16.5,495,"Etiam at ligula et tellus ullamcorper ultrices.  Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede.  Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia a nisl eget sapien."
+LAT-108,Beginner II FAST TRACK,10,15,450,Curabitur varius fringilla nisl.  Fusce est.  Suspendisse dapibus lorem pellentesque magna.
+LAT-107,Beginner I FAST,10,15,450,Quisque ornare placerat risus.  Cras dapibus dapibus nisl.
+LAT-109,Grammar For You: Beginner,4,6,180,Cras non magna vel ante adipiscing rhoncus.  Integer aliquet mauris et nibh.  Ut molestie magna at mi.  Curabitur varius fringilla nisl.
+LAT-221,Grammar For You: Intermediate,4,6,180,"Sed cursus quam id felis.  Curabitur varius fringilla nisl.  In porttitor.  Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero."
+LAT-222,Grammar For You: Advanced,4,6,180,In hac habitasse platea dictumst.  Cras non magna vel ante adipiscing rhoncus.  Curabitur non eros.
+LAT-426,Status quo,4,6,180,Nunc viverra imperdiet enim.
+LAT-427,Trilogy Book Study,11,16.5,495,"Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede.  Fusce est.  Aenean nec lorem."
+LAT-480,Art,11,16.5,495,Cras dapibus dapibus nisl.  Mauris eget neque at sem venenatis eleifend.
+LAT-229,Grammar for you,11,16.5,495,"Vestibulum quis dolor a felis congue vehicula.  Praesent euismod.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+LAT-472,Latin in Hand,11,16.5,495,"Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis.  Vivamus a tellus.  Maecenas porttitor congue massa."
+LAT-464,Roman Theater,11,16.5,495,"In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus.  Proin pharetra nonummy pede.  Aliquam at eros."
+LAT-114,Kids Beginner,11,16.5,495,Vestibulum quis dolor a felis congue vehicula.  Integer a.  Nam vulputate.
+LAT-213,Kids Intermediate,11,16.5,495,Mauris eget neque at sem venenatis eleifend.  Ut mattis ligula posuere velit.  Maecenas porttitor congue massa.  Vivamus a mi.
+LAT-407,Street Latin,11,16.5,495,"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Integer a.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna."
+LAT-408,Kaleidoscope,11,16.5,495,"Vivamus a mi.  Fusce est.  Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+LAT-409,Roman Sports,11,,,"Mauris eleifend a eget mauris.  Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc.  In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl."
+LAT-410,How Roman Cities Worked,11,,,Praesent euismod.  Maecenas porttitor congue massa.
+LAT-411,Roman Games,11,,,"Suspendisse dapibus lorem pellentesque magna.  Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.  Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+LAT-412,Roman Gods,11,,,"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
